@@ -4,7 +4,7 @@ RentEase is a modern MERN-stack furniture and appliance rental application built
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ### 1. User Dashboard & Roles
 * **User Accounts:** Registration, secure JWT login, and contact details/address preferences page.
@@ -23,7 +23,7 @@ RentEase is a modern MERN-stack furniture and appliance rental application built
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 * **Frontend:** React.js (Vite), React Router v6, Tailwind CSS, Axios, React Hook Form, Recharts, React Icons
 * **Backend:** Node.js, Express.js, JWT Authentication, bcryptjs
@@ -32,7 +32,7 @@ RentEase is a modern MERN-stack furniture and appliance rental application built
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Unified-Mentor-Internship/
@@ -62,14 +62,14 @@ Unified-Mentor-Internship/
 
 ---
 
-## 📖 Supporting Documentation
+## Supporting Documentation
 
 * [API Documentation](file:///Users/santhoshgopisetty/Desktop/Unified-Mentor-Internship/API_DOCUMENTATION.md)
 * [Production Deployment Instructions](file:///Users/santhoshgopisetty/Desktop/Unified-Mentor-Internship/DEPLOYMENT_INSTRUCTIONS.md)
 
 ---
 
-## ⚡ Quick Start: Running Locally
+## Quick Start: Running Locally
 
 ### Step 1. Clone & Set Up Backend
 1. Go into the backend directory:
@@ -113,7 +113,7 @@ Unified-Mentor-Internship/
 
 ---
 
-## 👤 Sample Seeding Accounts
+## Sample Seeding Accounts
 
 To test user and admin workflows, use the following credentials (seeded automatically via `npm run seed`):
 
