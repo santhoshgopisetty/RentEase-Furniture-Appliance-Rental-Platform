@@ -33,7 +33,7 @@ jobs:
         run: npm run build
         working-directory: frontend
         env:
-          VITE_API_URL: https://rentease-backend.onrender.com/api # Replace with your actual Render backend URL if needed
+          VITE_API_URL: https://rentease-backend-se87.onrender.com/api # Replace with your actual Render backend URL if needed
 
       - name: Handle React Router Refresh (404 Fallback)
         run: cp frontend/dist/index.html frontend/dist/404.html
